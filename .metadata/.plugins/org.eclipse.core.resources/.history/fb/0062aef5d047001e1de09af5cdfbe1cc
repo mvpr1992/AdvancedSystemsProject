@@ -1,0 +1,5 @@
+package com.ucm.reportsService.repo;
+
+public interface CreditCardRepo {
+
+}

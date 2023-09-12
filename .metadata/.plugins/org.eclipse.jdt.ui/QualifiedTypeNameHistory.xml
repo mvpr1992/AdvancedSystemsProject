@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.ucm.customerService.model.entity.Admin"/>
+    <fullyQualifiedTypeName name="java.sql.Timestamp"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Id"/>
+    <fullyQualifiedTypeName name="com.ucm.customerService.model.entity.RoutingNumbers"/>
+    <fullyQualifiedTypeName name="com.ucm.customerService.repository.RoutingNumberRepo"/>
+    <fullyQualifiedTypeName name="com.ucm.customerService.repository.BillPaymentRepo"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="com.ucm.customerService.model.entity.Transaction"/>
+    <fullyQualifiedTypeName name="com.ucm.customerService.repository.UserSignUpRepo"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="org.springframework.mail.SimpleMailMessage"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="org.springframework.context.event.EventListener"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.context.event.ApplicationReadyEvent"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="com.ucm.customerService.service.EmailSenderService"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="com.ucm.customerService.proxy.TransactionProxy"/>
+    <fullyQualifiedTypeName name="com.ucm.customerService.model.entity.CreditCardTransaction"/>
+</qualifiedTypeNameHistroy>

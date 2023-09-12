@@ -1,0 +1,5 @@
+package com.ucm.reportsService.entity.model;
+
+public class CreditCardTransaction {
+
+}
